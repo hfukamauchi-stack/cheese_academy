@@ -8,7 +8,7 @@ Cheese Academy
 
 ③アプリのデプロイURL
 
-
+https://hfukamauchi-stack.github.io/cheese_academy/
 
 ④アプリのログイン用IDまたはPassword（ある場合）
 
